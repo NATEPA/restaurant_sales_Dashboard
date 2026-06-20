@@ -35,21 +35,21 @@ This Project aimed at presents valuable insights from restaurant X data from 1st
 
         ** OVERVIEW.
 
-![Overview](SreenShots\Overview.png)
+![Overview](SreenShots/Overview.png)
 
         ** SALES ANALYSIS.
 
-![Sales_Analysis](SreenShots\Sales_Analysis.png)
+![Sales_Analysis](SreenShots/Sales_Analysis.png)
 
 
         ** MENU ANALYSIS.
 
-![Menu_Analysis](SreenShots\Menu_Analysis.png)
+![Menu_Analysis](SreenShots/Menu_Analysis.png)
 
 
         ** REVENUE ANALYSIS.
 
-![Revenue_Analysis](SreenShots\Revenue_Analysis.png)
+![Revenue_Analysis](SreenShots/Revenue_Analysis.png)
 
 
 
